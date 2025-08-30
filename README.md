@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Harsha  
 
-<!--
-**harsha-anvitha/harsha-anvitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 💻 Aspiring Software Developer | 🌱 Lifelong Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently studying **Computer Science**  
+- 🌱 Learning **C, C++, Java, Python, Data Structures & Algorithms, OOP, and AI**  
+- 💡 Interested in **Software Development, AI/ML, and Data Science**  
+- ⚡ Fun fact: I love solving coding challenges and exploring new tech tools  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** C, C++, Java, Python, SQL  
+- **Tools & IDEs:** VS Code, IntelliJ, Jupyter Notebook, RStudio  
+- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Databases:** MySQL, PostgreSQL  
+
+---
+
+## 📊 GitHub Stats
+![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+
